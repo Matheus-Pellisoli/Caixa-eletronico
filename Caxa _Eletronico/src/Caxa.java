@@ -51,6 +51,9 @@ public class Caxa {
 		System.out.println("Notas de 20:"+ nota_20);
 		System.out.println("Notas de 10:"+ nota_10);
 		System.out.println("Notas de 2:"+ nota_2);
+		System.out.println("Notas de 2:"+ 56);
+		System.out.println("Notas de 2:"+ 56);
+	}
 	}
 
 }
